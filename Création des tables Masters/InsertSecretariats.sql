@@ -1,0 +1,8 @@
+-- Masters 2018
+
+
+Insert into SECRETARIATS (SECRETAIRE,NOM,PRENOM,ADRESSE,CODEPOSTAL,LOCALITE,NRTELEPHONE,NRFAX,EMAIL) values ('1','HERMANT','Christiane','14, Rue les Oies','4052 ','BEAUFAYS','04/368.84.26   ','04/342.50.16   ','hermant@appl.be');
+Insert into SECRETARIATS (SECRETAIRE,NOM,PRENOM,ADRESSE,CODEPOSTAL,LOCALITE,NRTELEPHONE,NRFAX,EMAIL) values ('2','SIMONS','Michelle','Rue Joseph Wauters, 6','4430 ','ANS','04/226.10.77   ',null,'embourg.natation@teledisnet.be');
+Insert into SECRETARIATS (SECRETAIRE,NOM,PRENOM,ADRESSE,CODEPOSTAL,LOCALITE,NRTELEPHONE,NRFAX,EMAIL) values ('3','DUBUISSON','Yolande','Trou des Loups, 25','6540 ','LOBBES',null,null,null);
+Insert into SECRETARIATS (SECRETAIRE,NOM,PRENOM,ADRESSE,CODEPOSTAL,LOCALITE,NRTELEPHONE,NRFAX,EMAIL) values ('4','MONFORT','Willy','Avenue des puddleurs,53 ','4100 ','SERAING','04/338.15.52   ','04/337.82.98   ','monfortw@hotmail.com');
+COMMIT;
